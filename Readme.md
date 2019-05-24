@@ -1,7 +1,14 @@
+# Search a word
+
+## Description
 
 This program searches a provided **word** on a given **board**
 
-1) The following graphics depicts how searches are conducted 
+## Steps
+
+1) The following graphic depicts how searches are conducted 
+
+   ![Logic]examples.JPG
 
 2) Build the program: Execute **build.bat** to compile and create the executable jar file to test the program
 
