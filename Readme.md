@@ -2,7 +2,7 @@
 
 ## Description
 
-This program searches a provided **word** on a given **board**
+This program searches a **word** (provided by you) on a given **board** (hardcoded)
 
 ## Steps
 
