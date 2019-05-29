@@ -17,3 +17,8 @@ This program searches a **word** (provided by you) on a given **board** (hardcod
    java -jar WordFinder.jar
    ```
    Now provide the words to search
+
+
+## Other projects:
+
+1) (work-in-progress project) Using Microservices/Docker/Kubernetes - See  [Car Rating project](https://github.com/casalima/CarRatings)
